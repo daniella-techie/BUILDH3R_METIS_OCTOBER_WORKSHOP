@@ -1,5 +1,11 @@
 # Using Scaffold-ETH 2 to deploy a dApp on Metis L2
 
+THE WORKSHOP TASK DETAILS IS BELOW
+~~~
+TRANSACTION ID:  0x60acae83ca0278d532ef84ebe6eae929deedc47bf3fb82bb7154860f30a71b5d
+ADDRESS: 0x46F37c6161D05989F19AB3528F43773090779459
+~~~
+
 Follow this tutorial to create a quick dApp prototype and to deploy on Metis.
 
 ## Requirements
